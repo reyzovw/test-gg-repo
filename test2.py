@@ -1,4 +1,1 @@
-print("Hello GG")
-# xD
-print("new data updated")
-print("обновил еще раз")
+cHJpbnQoIkhlbGxvIEdHIikNCiMgeEQNCnByaW50KCJuZXcgZGF0YSB1cGRhdGVkIikNCnByaW50KCLQvtCx0L3QvtCy0LjQuyDQtdGJ0LUg0YDQsNC3IikNCg==
